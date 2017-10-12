@@ -1,0 +1,3 @@
+[submodule "slack-server"]
+	path = slack-server
+	url = https://github.com/GuilhemBn/slack-server.git
